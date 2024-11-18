@@ -1,0 +1,8 @@
+Suppose you are a doctor faced with the following problem. A malignant tumor has developed in the stomach of one of your patients. If the tumor is not treated soon, the cancer will spread throughout the patient's body, resulting in death. Because of some medical complication it is impossible to perform an operation to remove the tumor or restrict its blood supply. There is therefore no simple way to treat the patient's condition. However, you have available a kind of ray that can be used to destroy the tumor. 
+
+If the rays reach the tumor all at once at a sufficiently high intensity, the tumor will be destroyed.
+
+Unfortunately, at this dosage the rays will also destroy the healthy tissue that they pass through on the way to the tumor. At a lesser dosage the rays would not harm the healthy tissue, but they would not destroy the tumor either.
+What type of procedure might be used to destroy the tumor with the rays, and at the same time avoid destroying the healthy tissue? 
+
+Suggest as many possible solutions as you can. Write down all the possibilities you can think of, even ones that may not really be practical. Don't worry about not having enough medical knowledge. Use any information you can think of to help solve the problem.

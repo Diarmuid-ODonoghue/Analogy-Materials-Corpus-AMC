@@ -1,0 +1,9 @@
+
+A tumor was located in the interior of a patient’s body.
+A doctor wanted to destroy the tumor with rays.
+The doctor wanted to prevent the rays from destroying healthy tissue.
+As a result the high-intensity rays could not be applied to the tumor along one path. 
+
+However, high-intensity rays were needed to destroy the tumor.
+So applying one low-intensity ray would not succeed.
+
