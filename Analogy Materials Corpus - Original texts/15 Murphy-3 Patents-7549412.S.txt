@@ -1,0 +1,22 @@
+
+
+US Patent 7549412: System for recovering wasted energy from an internal combustion engine.
+Abstract: An internal combustion engine and its method
+of operation including at least one embodiment operating
+on a six-stroke cycle and including at least one piston and
+cylinder assembly. The six-stroke cycle includes two
+power strokes, the latter of which is the result of a water-tosteam
+conversion process utilizing the heat of the exhaust
+gas from the first power stroke. A second embodiment
+comprises a hybrid power generating assembly incorporating
+alternative, first and second power sources, respectively,
+comprising an internal combustion engine and a
+water injection engine, the latter of which operates on the
+water-to-steam conversion process, wherein the required
+heat therefore is derived from the exhaust gas of the
+internal combustion engine. Another preferred embodiment
+comprises the utilization of different normally wasted heat
+sources from an IC engine for the generation of sufficient
+work energy to drive a power takeoff, such as hybrid drive
+assembly.
+

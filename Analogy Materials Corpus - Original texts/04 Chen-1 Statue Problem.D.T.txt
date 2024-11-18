@@ -1,0 +1,13 @@
+
+In a village by a river, the chief of a tribe had the responsibility of taking
+care of the tribe’s sacred stone statue. It was the chief’s custom every year
+to go down river to the next village to collect taxes. To assess the amount
+of taxes, the chief would ask for the statue’s weight in gold coins. His
+method of measuring this amount was to put the statue in a large tub at one
+end of a hanging balance scale and hook the other end of the scale to
+another large tub. This second tub was filled with gold coins until the scale
+balanced the weight of the statue. During a recent trip to collect taxes, the
+chief forgot to bring his balance scale. Now the chief has a problem: How
+can he figure out how much gold to take to match the statue’s weight
+without the benefit of a balance scale, a pulley system, or a conventional
+scale? 

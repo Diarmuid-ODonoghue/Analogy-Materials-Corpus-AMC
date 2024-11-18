@@ -1,0 +1,16 @@
+
+US Patent 7511386: Air-blower tidal power generation device.
+Abstract: An air-blower tidal power generation device
+includes a rack, an air-blower mechanism, and a power
+generation mechanism. The air-blower mechanism
+includes a pumping device, a buoy, and an air conduit. The
+pumping device includes a cylinder and a stationary barrel
+movably coupled together. The power generation mechanism
+includes a constant-pressure and pressure-regulation
+device and a power generator having an air-driven turbine.
+Thus, tides move the buoy up and down to drive the
+pumping device for cyclically drawing and pumping air,
+and the air is preserved in the constant-pressure and pressure-
+regulation device to provide a constant pressure for
+subsequent and stable supply of airflow to the turbine for
+driving the power generator to generate power.

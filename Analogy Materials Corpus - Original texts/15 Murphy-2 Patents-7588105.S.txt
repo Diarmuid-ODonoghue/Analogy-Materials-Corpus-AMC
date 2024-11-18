@@ -1,0 +1,15 @@
+
+US Patent 7588105: Virtual-wheeled vehicle.
+Abstract: A virtual wheel provides a leg pair as a conveyance
+mechanism for a land vehicle. The virtual wheel
+propels the vehicle across a surface using a repetitive
+motion of the legs that contact the ground as would a wheel,
+due to their geometry. Vehicle embodiments include at least
+two-, three-, four- and six-wheeled vehicles, both transverse
+and in line. Additionally, the invention provides a bipedal
+walking robot. One embodiment provides a robotic mule—
+a payload-carrying vehicle. The invention combines the
+flexible mobility of bipedal vehicles with the stability and
+functionality of very large-wheeled vehicles. Additionally,
+a bimodal conveyance mechanism readily converts between
+walking and rolling modes.

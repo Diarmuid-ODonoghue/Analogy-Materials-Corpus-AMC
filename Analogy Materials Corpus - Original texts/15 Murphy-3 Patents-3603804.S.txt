@@ -1,0 +1,16 @@
+
+US Patent 3603804: Wave-operated power apparatus.
+Abstract: An elongated U-shaped pipeline has floats
+pivoted on transverse axes for rocking thereon in response
+to wave action in water which the floats are buoyant.
+Rocking of the floats operates pumps arranged in pressure
+compounding relation, and the fluid under pressure is
+delivered to a shore-based storage tank. The storage tank
+being sealed allows buildup of a pressure head. The fluid is
+let out through a regulator to operate machinery. Spent
+fluid from the plant is spilled out into a recovery tank,
+directly under the motor or turbine. It is then picked up by
+the lower leg of the pipeline and returned to repeat its cycle
+again. The floats support the pipeline and can be flooded to
+sink below the surface to avoid damage by storm waves.
+

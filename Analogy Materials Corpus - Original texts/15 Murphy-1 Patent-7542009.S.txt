@@ -1,0 +1,14 @@
+
+
+US Patent 7542009: Wireless communication device and signal receiving/transmitting method.
+Abstract: A wireless communication device using a
+single spiral inductor antenna and a signal receiving/
+transmitting method thereof operated on multi-band is
+provided. The single spiral inductor antenna is designed to
+have a plurality of different inductance paths. Different
+inductance values are inducted with signal paths switched
+by a plurality of switches so as to meet the requirements of
+multi-band operation. As the circuit structure of the single
+spiral inductor antenna is used, the circuit area is reduced
+effectively.
+

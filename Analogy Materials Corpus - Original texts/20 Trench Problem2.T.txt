@@ -1,0 +1,4 @@
+ 
+When two liquid substances are combined, on occasions the volume of the resulting solution does not equal the sum of the initial components. For example, when combining 1L of alcohol with 1L of water, the resulting solution does not yield a volume of 2L, but one of only 1.9L. What could be the cause of this intriguing phenomenon?
+
+

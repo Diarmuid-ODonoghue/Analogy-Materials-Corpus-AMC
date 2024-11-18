@@ -1,0 +1,9 @@
+
+US Patent 3584636: Photovoltaic cell-powered magnetic coil for the operation of fluidic circuit flapper.
+Abstract: A photofluidic eye comprising a photovoltaic
+cell and a magnetic coil operated flapper assembly powered
+thereby for alternately opening and closing fluidic back
+pressure orifices. No external power or switching
+arrangement is employed to avoid the occurrence of an
+electric spark when an environment containing explosive
+materials is present.

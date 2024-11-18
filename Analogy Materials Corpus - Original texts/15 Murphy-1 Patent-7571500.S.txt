@@ -1,0 +1,20 @@
+Analogy Group 1: single subfunction
+
+
+
+US Patent 7571500: Inflating/deflating device for an inflatable air mattress.
+Abstract: An inflating/deflating device includes a fan
+unit disposed inside a main housing. A release valve
+assembly is connected to a deflating port of the main
+housing for fluid communication with a first air passage of
+the fan unit. An inlet valve assembly is connected to an
+inflating port of the main housing for fluid communication
+with a second air passage of the fan unit. A control unit is
+provided to control the release and inlet valve assemblies.
+The control unit is operable to switch a first or a second
+actuating position. The control unit actuates the fan unit
+and the inlet valve assembly to perform an inflating mode
+in the first actuating position, and actuates the fan unit and
+the release valve assembly to perform a deflating mode in
+the second actuating position.
+

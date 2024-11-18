@@ -1,0 +1,5 @@
+
+
+You are given three empty jars of varying sizes and you have access to an unlimited amount of water. Your challenge is to obtain a specified amount of water. For this problem you are given a 21-quart jar, 127-quart jar and a 3-quart jar. Your challenge is to obtain exactly 100-quart of water.
+
+So the solution can be produced as follows. One fills the 127-quart jar and from it fills the 21-quart jar once and the 3-quart jar twice. In the 127-quart jar there then remains the 100 quarts of water.

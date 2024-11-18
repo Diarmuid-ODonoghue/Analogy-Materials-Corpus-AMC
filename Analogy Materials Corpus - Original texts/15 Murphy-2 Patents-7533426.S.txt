@@ -1,0 +1,21 @@
+
+
+US Patent 7533426: Gray water interface valve systems and methods.
+Abstract: Embodiments of the present invention provide
+systems and methods for a gray water interface valve for
+use with a vacuum source and a collection tank. The systems
+and methods comprise a basin for collecting gray
+water, the basin having an outlet; a reservoir in fluid
+communication with the outlet, the reservoir adapted to
+house gray water; a vent line associated with the reservoir;
+a pressure switch associated with the reservoir, the pressure
+switch adapted to signal when the reservoir is full; a controller
+associated with the pressure switch, the controller
+adapted to begin a discharge cycle by checking and
+switching on the vacuum source if necessary; a solenoid
+valve activated by the controller in order to control the flow
+of vacuum through the system; and a drain valve adapted to
+open via vacuum pressure and evacuate gray water from
+the reservoir, wherein the drain valve is adapted to close
+before all of the gray water from the reservoir is emptied to
+reduce noise.

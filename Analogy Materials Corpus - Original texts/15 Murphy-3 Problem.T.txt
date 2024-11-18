@@ -1,0 +1,7 @@
+Design a device to collect energy from human motion for use in developing and
+impoverished rural communities in places like India and many African countries. Our
+goal is to build a low-cost, easy to manufacture device targeted at individuals and
+small households to provide energy to be stored in a battery. The energy is intended
+to be used by small, low power draw electrics, such as a radio or lighting device,
+hopefully leading to an increase in the quality of life of the communities by increasing
+productivity, connection to the outside world, etc.

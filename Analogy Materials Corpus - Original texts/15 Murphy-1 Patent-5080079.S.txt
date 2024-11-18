@@ -1,0 +1,10 @@
+
+US Patent 5080079: Fuel injection apparatus having fuel pressurizing pump.
+Abstract: A fuel injection apparatus has a piezoelectric
+element for generating a high-pressurized air–fuel gas
+mixture. The piezoelectric element is arranged at a side of a
+pumping chamber, and a diaphragm is arranged between
+the piezoelectric element and the pumping chamber. The
+piezoelectric element produces a pumping function in
+accordance with a current signal.
+
