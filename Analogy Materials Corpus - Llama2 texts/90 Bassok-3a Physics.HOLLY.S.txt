@@ -1,0 +1,11 @@
+Of course! I'd be happy to help you with that.
+Based on the information provided in the story, we can see that Jane's typing rate increases steadily over time during her "warm-up" period. Specifically, her typing rate increases by 10 words per minute (wpm) every 2 minutes.
+Here's a breakdown of Jane's typing rate at each time interval:
+* 0 minutes: 40 wpm
+* 2 minutes: 50 wpm (increase of 10 wpm)
+* 4 minutes: 60 wpm (increase of 10 wpm)
+* 6 minutes: 70 wpm (increase of 10 wpm)
+* 8 minutes: 80 wpm (increase of 10 wpm)
+* 10 minutes: 90 wpm (typical typing rate)
+So, during her "warm-up" period, Jane's typing rate increases by a constant amount of 10 wpm every 2 minutes.
+I hope this helps! Let me know if you have any other questions.
