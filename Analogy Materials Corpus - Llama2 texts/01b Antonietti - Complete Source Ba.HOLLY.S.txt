@@ -1,0 +1,10 @@
+Sure, I'd be happy to help!
+Based on the information provided in the original story, the total labor cost for the construction of the unique wide canal is $17,664.
+In the second plan, the lake is fed by four small canals whose total flow is the same as the unique wide canal previously planned. These small canals are placed around the lake so that they convey water coming from four different valleys. To implement the second plan, 12 laborers have to work 8 hours daily for 23 days. Each laborer is paid $8 for each hour of work.
+To determine whether the labor of the second plan is cheaper, equal, or more expensive than the labor of the first plan, we need to calculate the total labor cost of both plans.
+For the first plan, the total labor cost is $17,664.
+For the second plan, the total labor cost can be calculated as follows:
+12 laborers x 8 hours/day x 23 days = 1,848 hours of labor
+Since each laborer is paid $8/hour, the total labor cost of the second plan is:
+1,848 hours x $8/hour = $15,152
+Therefore, the labor of the second plan is cheaper than the labor of the first plan, with a cost of $15,152 compared to $17,664.
