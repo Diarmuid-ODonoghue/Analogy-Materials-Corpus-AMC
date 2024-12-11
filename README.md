@@ -1,5 +1,5 @@
 # Analogy-Materials-Corpus-AMC
-Collection of text stories sourced from psychology research publications, with LLM generated variants.
+This coprus contains tex- stories sourced from aroun 40 psychology research publications, with each source and target text in its own simple .txt file. The corpus also contains with LLM generated variants of each of these.
 
 Text materials (stories) **sourced from** various **psychology research papers** on the human ability to reason using analogically similar stories. Analogy, metaphor and conceptual blends (conceptual integration networks).
 
